@@ -7,17 +7,15 @@
         <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>
 
-<a href="https://set.ki/PXJoz5h">
-    <img src="https://img.shields.io/badge/Сетка-purple?style=for-the-badge&logo=&logoColor=white" alt="Setka Badge"/>
+<a href="https://orcid.org/0000-0002-5327-1934">
+    <img src="https://img.shields.io/badge/ORCID-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
 </a>
 
 <a href="https://t.me/grabchik00">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
 </a>
 
-<a href="https://orcid.org/0000-0002-5327-1934">
-    <img src="https://img.shields.io/badge/ORCID-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
-</a>
+
 
 
 </div>
